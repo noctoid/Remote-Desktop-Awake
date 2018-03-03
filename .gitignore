@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+awake_backend/db.sqlite3
